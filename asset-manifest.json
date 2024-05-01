@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Travel-Guide/static/css/main.d9e502c5.chunk.css",
-    "main.js": "/Travel-Guide/static/js/main.2b2b5eb2.chunk.js",
-    "main.js.map": "/Travel-Guide/static/js/main.2b2b5eb2.chunk.js.map",
+    "main.js": "/Travel-Guide/static/js/main.dbbc7852.chunk.js",
+    "main.js.map": "/Travel-Guide/static/js/main.dbbc7852.chunk.js.map",
     "runtime-main.js": "/Travel-Guide/static/js/runtime-main.98cc66dd.js",
     "runtime-main.js.map": "/Travel-Guide/static/js/runtime-main.98cc66dd.js.map",
-    "static/js/2.aeb6a28c.chunk.js": "/Travel-Guide/static/js/2.aeb6a28c.chunk.js",
-    "static/js/2.aeb6a28c.chunk.js.map": "/Travel-Guide/static/js/2.aeb6a28c.chunk.js.map",
+    "static/js/2.c33db443.chunk.js": "/Travel-Guide/static/js/2.c33db443.chunk.js",
+    "static/js/2.c33db443.chunk.js.map": "/Travel-Guide/static/js/2.c33db443.chunk.js.map",
     "static/js/3.0134d352.chunk.js": "/Travel-Guide/static/js/3.0134d352.chunk.js",
     "static/js/3.0134d352.chunk.js.map": "/Travel-Guide/static/js/3.0134d352.chunk.js.map",
     "index.html": "/Travel-Guide/index.html",
     "static/css/main.d9e502c5.chunk.css.map": "/Travel-Guide/static/css/main.d9e502c5.chunk.css.map",
-    "static/js/2.aeb6a28c.chunk.js.LICENSE.txt": "/Travel-Guide/static/js/2.aeb6a28c.chunk.js.LICENSE.txt",
+    "static/js/2.c33db443.chunk.js.LICENSE.txt": "/Travel-Guide/static/js/2.c33db443.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/Travel-Guide/static/media/logo.5c4eda44.svg",
     "static/media/place.svg": "/Travel-Guide/static/media/place.7d64241c.svg",
     "static/media/search.svg": "/Travel-Guide/static/media/search.7be21539.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98cc66dd.js",
-    "static/js/2.aeb6a28c.chunk.js",
+    "static/js/2.c33db443.chunk.js",
     "static/css/main.d9e502c5.chunk.css",
-    "static/js/main.2b2b5eb2.chunk.js"
+    "static/js/main.dbbc7852.chunk.js"
   ]
 }
