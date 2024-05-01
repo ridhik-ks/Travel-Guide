@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch, Link } from "react-router-dom";
 import Places from "./components/screens/Places";
 import Place from "./components/screens/Place";
 import NotFound from "./components/screens/NotFound";
@@ -9,7 +9,7 @@ import Signup from "./components/screens/Signup";
 function App(props) {
     return (
         <div>
-            <Router>
+            <Router basename="/Travel-Guide">
                 <Switch>
                     <Route path="/" exact component={Places} />
                     <Route path="/auth/login/" exact component={Login} />
