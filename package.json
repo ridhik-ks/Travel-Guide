@@ -1,6 +1,7 @@
 {
   "name": "travel-app",
   "version": "0.1.0",
+  "homepage": "https://ridhik-ks.github.io/Travel-Guide",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
